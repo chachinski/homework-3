@@ -1,0 +1,35 @@
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    /* width: 400px;
+    height: 300px;  */
+    width: 25rem;
+    height: 18.75rem;
+
+    margin: 3rem 0 3rem 0;
+    padding: 2rem;
+}
+span{
+    border: 2px solid black;
+}
+.intro{
+    color: #ffc700;
+    background-color: #18354a;
+    font-size: 18px;
+    margin: 2rem 0 2rem 0;
+    text-align: center;
+    padding: 3rem;
+    border: 1px solid lightgray;
+    max-width: 900px;
+}
+header{
+    background-image: url("../bg_header.jpg");
+    color: #fff;
+    padding: 5rem;
+    background-repeat: repeat-x;
+    text-align: center;
+    font-weight: bold;
+}
